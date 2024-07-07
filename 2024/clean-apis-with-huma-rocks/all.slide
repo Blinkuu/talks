@@ -69,7 +69,13 @@ Errors use RFC 9457 Problem Details for HTTP APIs
 - Middleware
 - Custom Validation 
 - Request Resolvers
+- File Uploads
 - Response Streaming
 - SSE
 - Testing Framework
-- Customize Everything: validation, errors, schema,  
+- Customize Everything: validation, errors, schema, etc.
+
+* Links
+
+.link https://huma.rocks/ Huma Rocks
+.link https://github.com/Blinkuu/talks/tree/main/2024/clean-apis-with-huma-rocks Slides
