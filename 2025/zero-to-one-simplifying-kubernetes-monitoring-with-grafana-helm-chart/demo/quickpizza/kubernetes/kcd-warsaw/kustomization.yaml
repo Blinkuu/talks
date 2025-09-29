@@ -1,0 +1,16 @@
+resources:
+  - ../base/quickpizza
+
+configMapGenerator:
+  - name: quickpizza-env
+    envs:
+      - .env
+
+patches:
+  - patch: |-
+      - op: add
+        path: /spec/template/metadata/annotations
+        value:
+          k8s.grafana.com/scrape: "true"
+    target:
+      kind: Deployment

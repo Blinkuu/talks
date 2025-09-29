@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+# production build
+.svelte-kit
+build
+
+# secrets
+.env
+
+bin
+fly.toml
+
+summary.json
+screenshot.png
+screenshots
+k6/k6
+k6/extensions/internal/k6
+k6/extensions/k6
+
+.vscode
+quickpizza.db
+logs.txt
