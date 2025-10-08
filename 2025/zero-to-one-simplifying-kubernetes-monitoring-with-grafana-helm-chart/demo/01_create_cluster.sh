@@ -1,3 +1,3 @@
 #!/bin/bash
 
-kind create cluster --name demo-kcd-warsaw
+kind create cluster --name demo-kcd-warsaw --quiet
