@@ -10,17 +10,17 @@
 - Claude vs. Codex
 - Discussion
 
-## Demo
-
-- Mirage
-- Vigil
-
 ## What this talk is not about
 
 - Setting up and using SKILLS. They obviously work and are really good. If you don't use them, start today. No point to spend more time on this.
 - Setting up and using MCPs. If you want my take, I personally don't use them.
 - Ergonomics
 - Instead, we'll focus on achieving better results for complex work.
+
+## Demo
+
+- Mirage
+- Vigil
 
 ## AGENTS.md / CLAUDE.md
 
