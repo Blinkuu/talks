@@ -19,8 +19,9 @@
 
 ## Demo
 
-- Mirage
 - Vigil
+- [Mirage](https://github.com/devinitive-team/mirage)
+- [Mirage Launch Video](<https://www.youtube.com/watch?v=BrIUXE-wt88>)
 
 ## AGENTS.md / CLAUDE.md
 
